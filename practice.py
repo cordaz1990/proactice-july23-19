@@ -1,2 +1,1 @@
-print('hello')
-print('w
+words = ['d', 'r', ''t
