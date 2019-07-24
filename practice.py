@@ -1,1 +1,1 @@
-words = ['d', 'r', ''t
+words = ['d', 'r', 't'
