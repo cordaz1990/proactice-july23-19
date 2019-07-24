@@ -1,2 +1,2 @@
 words = ['d', 'r', 't', 'y']
-print ()
+print ('h)
